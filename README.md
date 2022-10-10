@@ -19,7 +19,7 @@ domain categories. The effectiveness of our method is demonstrated on public ben
 
 > **Video:** Click the figure to watch the explanation video.
 
-[![YouTube](assets/figure1.png)](https://www.youtube.com/watch?v=o0jEox4z3OI](https://www.youtube.com/watch?v=c55rRO-Aqac&ab_channel=JaeminNa) 
+[![YouTube](assets/figure1.png)]([https://www.youtube.com/watchwatch?v=o0jEox4z3OI)
 
 ## Requirements
 - Linux
