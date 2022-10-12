@@ -56,5 +56,4 @@ If you use this code in your research, please cite:
   journal={arXiv preprint arXiv:2111.13353},
   year={2021}
 }
-}
 ```
